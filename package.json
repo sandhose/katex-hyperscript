@@ -1,0 +1,22 @@
+{
+  "name": "katex-hyperscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hyperscript": "^2.0.2",
+    "katex": "^0.8.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-hyperscript": "^3.0.0",
+    "react-scripts": "^1.0.11"
+  }
+}
